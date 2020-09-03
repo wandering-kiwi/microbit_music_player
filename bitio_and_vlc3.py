@@ -1,5 +1,5 @@
 #this has a:play, b:pause, left_tilt:volume_down, right_tilt:volume_up
-
+# diagram at https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fexcalidraw.com%2F%23json%3D5217542889013248%2CIGDMblCSp5C0rZXMZ7r0_Q 
 import microbit
 import time
 
